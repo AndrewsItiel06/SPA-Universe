@@ -2,7 +2,7 @@
 
 A Single Page Application (SPA) developed with Vanilla JavaScript
 
-### Construction
+### Development
 
 In this project, i'm applying/using:
 
