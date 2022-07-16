@@ -2,11 +2,13 @@
 
 A Single Page Application (SPA) developed with Vanilla JavaScript
 
-### Practice
+### Construction
 
 In this project, i'm applying/using:
 
 - Routing
+- Asynchronism
+- Promisses
 - Classes
 - fetch API
 
