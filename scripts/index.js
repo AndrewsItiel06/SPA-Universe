@@ -11,9 +11,9 @@ router.add("#home" , "/pages/home.html")
 router.add("#universe" , "/pages/universe.html")
 router.add("#exploration" , "/pages/exploration.html")
 
+window.location= "#home";
 router.handle()
 
-window.location= "#home";
 window.onpopstate = () => router.handle()
 window.router = () => router.router()
 button.active()
